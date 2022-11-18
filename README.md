@@ -33,6 +33,9 @@ Write your own steps
 
 ## PROGRAM:
 ~~~
+Name:Manoj M
+Reg no:212221240027
+
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
@@ -136,3 +139,6 @@ plt.show()
 
 
 ## RESULT
+Thus, we have sucessfully implemented a Convolutional Auto Encoder for Denoising.
+
+
